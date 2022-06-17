@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+};
+figure {
+  text-align: center;
+};
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+};
+#details {
+background-color: red;
+};
